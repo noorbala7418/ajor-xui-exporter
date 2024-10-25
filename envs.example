@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export XPANEL_URL="http://localhost:54321"
+export XPANEL_USERNAME=admin
+export XPANEL_PASSWORD=admin
+export APP_LOG_MODE=info
+export APP_SCRAPE_TIME=25
